@@ -1,4 +1,4 @@
-# 
+# 高级 Adobe Photoshop 扩展 Mac OS版 | 原生 Adobe Photoshop 扩展 PC Windows版。集成 HDR合并 和 布尔运算，跨平台性能最大化。
 
 
 
